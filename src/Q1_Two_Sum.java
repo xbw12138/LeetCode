@@ -21,7 +21,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class Two_Sum {
+public class Q1_Two_Sum {
     public static void main(String[] args) {
         int nums[] = {2, 7, 9, 10, 11, 15};
         int target = 26;

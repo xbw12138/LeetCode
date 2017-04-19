@@ -15,7 +15,7 @@
  * 问题描述
  * 给两个不为空的链表，代表两个非负数，每个数字倒着存放在链表中，求和，结果同样倒着存放在链表中。
  */
-public class Add_Two_Numbers {
+public class Q2_Add_Two_Numbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result=null,cur=null;
